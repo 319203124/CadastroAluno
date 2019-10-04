@@ -1,7 +1,6 @@
 							Cadastro de professor
+Aviso de cancelamento de Matricula
 
-Matrícula:
+MatrÃ­cula:321
 
-Nome:
-
-e-mail:
+Nome:Gabriel Mauricio
