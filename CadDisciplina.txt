@@ -1,5 +1,7 @@
 							Cadastro de disciplina
 
-C�digo:
+Código:98754
 
-Disciplina:
+Disciplina:Corpo Humano
+
+Aviso: Só cadastrar disciplinas da matéria de MEDICINA
